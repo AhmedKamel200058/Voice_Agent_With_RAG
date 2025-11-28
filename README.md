@@ -16,7 +16,7 @@ https://github.com/livekit-examples/agent-starter-react
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Real-time conversational voice assistant  
 - Automatic PDF ingestion → chunking → embeddings  
@@ -28,7 +28,7 @@ https://github.com/livekit-examples/agent-starter-react
 
 ---
 
-# 🧠 RAG: How It Works
+#  RAG: How It Works
 
 The RAG pipeline performs:
 
@@ -52,7 +52,7 @@ Query → embedding → FAISS search → context retrieval.
 
 ---
 
-# 🎤 Voice Agent Architecture
+#  Voice Agent Architecture
 
 ```
 User Speech
@@ -72,7 +72,7 @@ User Hears Response
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Voice_Agent/
@@ -89,7 +89,7 @@ Voice_Agent/
 
 ---
 
-# ⚙️ Setup Instructions
+#  Setup Instructions
 
 ## 1. Clone repository
 ```bash
@@ -149,7 +149,7 @@ npm run dev
 ```
 
 ---
-# 🎯 Agent Features
+#  Agent Features
 
 - RAG responses based only on PDF knowledge  
 - Full booking dialogue  
@@ -158,11 +158,11 @@ npm run dev
 
 ---
 
-# 📽 Demo
+#  Demo
 https://drive.google.com/file/d/1xB4hpLhUY4J4nSfkd9Act40cTuqyL9qo/view?usp=sharing
 
 
 ---
 
-# 📄 License
+#  License
 MIT License.
